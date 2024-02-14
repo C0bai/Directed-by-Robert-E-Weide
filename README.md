@@ -26,7 +26,7 @@ https://discord.gg/ymgKuDtncw
 
 Cobai
 
-https://www.youtube.com/@cobai.
+[Subscribe To Youtube](https://www.youtube.com/@cobai.)
 
 ## Version History
 
