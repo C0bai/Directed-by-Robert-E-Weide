@@ -30,5 +30,8 @@ Cobai
 
 ## Version History
 
+* 0.0.2
+    * Added changelog and comments to code
+
 * 0.0.1
     * Initial Release
