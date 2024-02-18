@@ -1,6 +1,6 @@
 # A Simple Factorio Death Sound Mod
 
-This MOD replaces the standard death sound with the clasic MEME clip!
+This MOD replaces the standard death sound with the classic MEME clip!
 
 ## Description
 
